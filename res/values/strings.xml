@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">약전노트</string>
+    <string name="icon_label">약전노트</string>
+    <string name="main.title">비급노트</string>
+    <string name="main.subtitle">약시 시리즈 03. 약전 노트</string>
+    <string name="main.message">당신의 합격을 기원합니다.</string>
+    <string name="no_file_info">선택된 파일 정보가 없습니다.</string>
+    <string name="unexpeected_situation">예상되지 않은 상황입니다.</string>
+    <string name="noti_for_exit">Back 버튼을 한 번 더 누르시면 종료됩니다.</string>
+    <string name="loading_image">이미지를 읽어들입니다.</string>
+    <string name="title_noti">알림</string>
+    <string name="ok">확인</string>
+</resources>
